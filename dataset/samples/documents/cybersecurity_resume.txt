@@ -1,0 +1,16 @@
+SYNTHETIC RESUME FOR DEVELOPMENT ONLY
+Student: S051
+
+Skills
+cybersecurity, Python, network security, privacy, SQL
+
+Work Experience
+Security Operations Intern | Fictional Security Team | 2024-2025
+Investigated security alerts and documented network defense procedures and information security risks.
+
+Projects
+Threat Analysis Project
+Used Python to analyze security logs and categorize potential network threats.
+
+Education
+Fictional Example University

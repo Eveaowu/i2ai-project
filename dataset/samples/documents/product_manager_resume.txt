@@ -1,0 +1,16 @@
+SYNTHETIC RESUME FOR DEVELOPMENT ONLY
+Student: S002
+
+Skills
+product management, SQL, Tableau, A/B testing, agile
+
+Work Experience
+Product Analytics Intern | Fictional Product Studio | 2024-2025
+Analyzed product adoption and designed an A/B testing plan to compare onboarding workflows.
+
+Projects
+Customer Insights Dashboard
+Created Tableau visualizations and prioritized product improvements using customer data.
+
+Education
+Fictional Example University

@@ -1,0 +1,8 @@
+SYNTHETIC TRANSCRIPT FOR DEVELOPMENT ONLY
+Institution: Fictional Example University
+Student: S001
+
+Course ID | Title | Grade | Credits | Term | Status
+CS101 | Python Programming | A | 3 | Spring 2024 | completed
+ML201 | Applied Machine Learning | A- | 3 | Spring 2024 | completed
+STAT101 | Statistics | B+ | 3 | Spring 2024 | completed

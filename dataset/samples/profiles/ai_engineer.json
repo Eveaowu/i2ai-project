@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "student_id": "S001",
+  "program_id": "AIM12",
+  "interests": {
+    "career": [
+      {
+        "id": "ai_engineer",
+        "weight": 1.0
+      }
+    ],
+    "academic": [
+      {
+        "id": "generative_ai_nlp",
+        "weight": 0.7
+      },
+      {
+        "id": "machine_learning",
+        "weight": 0.3
+      }
+    ]
+  },
+  "experience": {
+    "skills": [],
+    "work_experience": [],
+    "projects": [],
+    "academic_records": []
+  }
+}

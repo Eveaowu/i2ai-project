@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "student_id": "S051",
+  "program_id": "AIM16",
+  "interests": {
+    "career": [
+      {
+        "id": "cybersecurity_analyst",
+        "weight": 1.0
+      }
+    ],
+    "academic": [
+      {
+        "id": "cybersecurity",
+        "weight": 0.7
+      },
+      {
+        "id": "privacy_governance",
+        "weight": 0.3
+      }
+    ]
+  },
+  "experience": {
+    "skills": [],
+    "work_experience": [],
+    "projects": [],
+    "academic_records": []
+  }
+}

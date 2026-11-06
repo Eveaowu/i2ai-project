@@ -1,0 +1,2928 @@
+{
+  "schema_version": "1.0",
+  "synthetic": true,
+  "random_seed": 42,
+  "purpose": "Frontend/development fixtures, excluded from model training and population fallback",
+  "records": [
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S001",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [],
+          "academic": []
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S002",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "ai_governance_specialist",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "privacy_governance",
+              "weight": 0.7
+            },
+            {
+              "id": "artificial_intelligence",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S003",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "product_manager",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "product_innovation",
+              "weight": 0.7
+            },
+            {
+              "id": "visualization",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S004",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "ai_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "generative_ai_nlp",
+              "weight": 0.7
+            },
+            {
+              "id": "machine_learning",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S005",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "healthcare_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "healthcare_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "policy_analytics",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S006",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [],
+          "academic": []
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S007",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "financial_data_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "financial_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S008",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "policy_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "policy_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S009",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "policy_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "policy_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S010",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "cybersecurity_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "cybersecurity",
+              "weight": 0.7
+            },
+            {
+              "id": "privacy_governance",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S011",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [],
+          "academic": []
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S012",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "healthcare_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "healthcare_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "policy_analytics",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S013",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "product_manager",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "product_innovation",
+              "weight": 0.7
+            },
+            {
+              "id": "visualization",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S014",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "ai_governance_specialist",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "privacy_governance",
+              "weight": 0.7
+            },
+            {
+              "id": "artificial_intelligence",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S015",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "healthcare_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "healthcare_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "policy_analytics",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S016",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [],
+          "academic": []
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S017",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "data_scientist",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "data_science",
+              "weight": 0.7
+            },
+            {
+              "id": "visualization",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S018",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "product_manager",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "product_innovation",
+              "weight": 0.7
+            },
+            {
+              "id": "visualization",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S019",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "technology_consultant",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "technology_management",
+              "weight": 0.7
+            },
+            {
+              "id": "product_innovation",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S020",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "machine_learning_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "machine_learning",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S021",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [],
+          "academic": []
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S022",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "ai_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "generative_ai_nlp",
+              "weight": 0.7
+            },
+            {
+              "id": "machine_learning",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S023",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "ai_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "generative_ai_nlp",
+              "weight": 0.7
+            },
+            {
+              "id": "machine_learning",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S024",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "product_manager",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "product_innovation",
+              "weight": 0.7
+            },
+            {
+              "id": "visualization",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S025",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "policy_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "policy_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S026",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [],
+          "academic": []
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S027",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "policy_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "policy_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S028",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "data_scientist",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "data_science",
+              "weight": 0.7
+            },
+            {
+              "id": "visualization",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S029",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "technology_consultant",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "technology_management",
+              "weight": 0.7
+            },
+            {
+              "id": "product_innovation",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S030",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "ai_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "generative_ai_nlp",
+              "weight": 0.7
+            },
+            {
+              "id": "machine_learning",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S031",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [],
+          "academic": []
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S032",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "data_scientist",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "data_science",
+              "weight": 0.7
+            },
+            {
+              "id": "visualization",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S033",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "policy_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "policy_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S034",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "healthcare_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "healthcare_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "policy_analytics",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S035",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "ai_governance_specialist",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "privacy_governance",
+              "weight": 0.7
+            },
+            {
+              "id": "artificial_intelligence",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S036",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [],
+          "academic": []
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S037",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "healthcare_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "healthcare_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "policy_analytics",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S038",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "data_scientist",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "data_science",
+              "weight": 0.7
+            },
+            {
+              "id": "visualization",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S039",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "machine_learning_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "machine_learning",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S040",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "policy_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "policy_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S041",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [],
+          "academic": []
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S042",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "data_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "databases",
+              "weight": 0.7
+            },
+            {
+              "id": "software_systems",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S043",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "technology_consultant",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "technology_management",
+              "weight": 0.7
+            },
+            {
+              "id": "product_innovation",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S044",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "financial_data_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "financial_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S045",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "ai_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "generative_ai_nlp",
+              "weight": 0.7
+            },
+            {
+              "id": "machine_learning",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S046",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [],
+          "academic": []
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S047",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "cybersecurity_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "cybersecurity",
+              "weight": 0.7
+            },
+            {
+              "id": "privacy_governance",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S048",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "healthcare_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "healthcare_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "policy_analytics",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S049",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "machine_learning_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "machine_learning",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S050",
+        "program_id": "AIM12",
+        "interests": {
+          "career": [
+            {
+              "id": "software_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "software_systems",
+              "weight": 0.7
+            },
+            {
+              "id": "databases",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S051",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [],
+          "academic": []
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S052",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "financial_data_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "financial_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S053",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "cybersecurity_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "cybersecurity",
+              "weight": 0.7
+            },
+            {
+              "id": "privacy_governance",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S054",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "policy_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "policy_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S055",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "software_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "software_systems",
+              "weight": 0.7
+            },
+            {
+              "id": "databases",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S056",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [],
+          "academic": []
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S057",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "product_manager",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "product_innovation",
+              "weight": 0.7
+            },
+            {
+              "id": "visualization",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S058",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "product_manager",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "product_innovation",
+              "weight": 0.7
+            },
+            {
+              "id": "visualization",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S059",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "machine_learning_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "machine_learning",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S060",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "product_manager",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "product_innovation",
+              "weight": 0.7
+            },
+            {
+              "id": "visualization",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S061",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [],
+          "academic": []
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S062",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "software_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "software_systems",
+              "weight": 0.7
+            },
+            {
+              "id": "databases",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S063",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "software_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "software_systems",
+              "weight": 0.7
+            },
+            {
+              "id": "databases",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S064",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "technology_consultant",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "technology_management",
+              "weight": 0.7
+            },
+            {
+              "id": "product_innovation",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S065",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "financial_data_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "financial_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S066",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [],
+          "academic": []
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S067",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "ai_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "generative_ai_nlp",
+              "weight": 0.7
+            },
+            {
+              "id": "machine_learning",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S068",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "healthcare_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "healthcare_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "policy_analytics",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S069",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "data_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "databases",
+              "weight": 0.7
+            },
+            {
+              "id": "software_systems",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S070",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "data_scientist",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "data_science",
+              "weight": 0.7
+            },
+            {
+              "id": "visualization",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S071",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [],
+          "academic": []
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S072",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "product_manager",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "product_innovation",
+              "weight": 0.7
+            },
+            {
+              "id": "visualization",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S073",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "machine_learning_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "machine_learning",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S074",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "product_manager",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "product_innovation",
+              "weight": 0.7
+            },
+            {
+              "id": "visualization",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S075",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "data_scientist",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "data_science",
+              "weight": 0.7
+            },
+            {
+              "id": "visualization",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S076",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [],
+          "academic": []
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S077",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "financial_data_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "financial_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S078",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "ai_governance_specialist",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "privacy_governance",
+              "weight": 0.7
+            },
+            {
+              "id": "artificial_intelligence",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S079",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "technology_consultant",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "technology_management",
+              "weight": 0.7
+            },
+            {
+              "id": "product_innovation",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S080",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "software_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "software_systems",
+              "weight": 0.7
+            },
+            {
+              "id": "databases",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S081",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [],
+          "academic": []
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S082",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "technology_consultant",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "technology_management",
+              "weight": 0.7
+            },
+            {
+              "id": "product_innovation",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S083",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "policy_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "policy_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S084",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "healthcare_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "healthcare_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "policy_analytics",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S085",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "product_manager",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "product_innovation",
+              "weight": 0.7
+            },
+            {
+              "id": "visualization",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S086",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [],
+          "academic": []
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S087",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "ai_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "generative_ai_nlp",
+              "weight": 0.7
+            },
+            {
+              "id": "machine_learning",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S088",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "ai_governance_specialist",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "privacy_governance",
+              "weight": 0.7
+            },
+            {
+              "id": "artificial_intelligence",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S089",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "policy_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "policy_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S090",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "financial_data_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "financial_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S091",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [],
+          "academic": []
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S092",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "product_manager",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "product_innovation",
+              "weight": 0.7
+            },
+            {
+              "id": "visualization",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S093",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "policy_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "policy_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S094",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "product_manager",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "product_innovation",
+              "weight": 0.7
+            },
+            {
+              "id": "visualization",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S095",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "machine_learning_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "machine_learning",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S096",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [],
+          "academic": []
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S097",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "financial_data_analyst",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "financial_analytics",
+              "weight": 0.7
+            },
+            {
+              "id": "data_science",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S098",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "data_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "databases",
+              "weight": 0.7
+            },
+            {
+              "id": "software_systems",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S099",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "ai_governance_specialist",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "privacy_governance",
+              "weight": 0.7
+            },
+            {
+              "id": "artificial_intelligence",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    },
+    {
+      "synthetic": true,
+      "profile": {
+        "schema_version": "1.0",
+        "student_id": "S100",
+        "program_id": "AIM16",
+        "interests": {
+          "career": [
+            {
+              "id": "software_engineer",
+              "weight": 1.0
+            }
+          ],
+          "academic": [
+            {
+              "id": "software_systems",
+              "weight": 0.7
+            },
+            {
+              "id": "databases",
+              "weight": 0.3
+            }
+          ]
+        },
+        "experience": {
+          "skills": [],
+          "work_experience": [],
+          "projects": [],
+          "academic_records": []
+        }
+      }
+    }
+  ]
+}

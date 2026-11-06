@@ -1,0 +1,8 @@
+SYNTHETIC TRANSCRIPT FOR DEVELOPMENT ONLY
+Institution: Fictional Example University
+Student: S052
+
+Course ID | Title | Grade | Credits | Term | Status
+ECON201 | Applied Econometrics | A | 3 | Spring 2024 | completed
+POL101 | Public Policy Analysis | A- | 3 | Spring 2024 | completed
+GIS101 | Geographic Information Systems | B+ | 3 | Spring 2024 | completed

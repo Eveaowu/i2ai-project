@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "student_id": "S003",
+  "program_id": "AIM12",
+  "interests": {
+    "career": [],
+    "academic": []
+  },
+  "experience": {
+    "skills": [],
+    "work_experience": [],
+    "projects": [],
+    "academic_records": []
+  }
+}
