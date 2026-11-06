@@ -1,0 +1,16 @@
+SYNTHETIC RESUME FOR DEVELOPMENT ONLY
+Student: S001
+
+Skills
+Python, machine learning, NLP, generative AI, SQL
+
+Work Experience
+AI Research Assistant | Fictional Analytics Lab | 2024-2025
+Built a Python document retrieval prototype and compared large language model outputs for a small research project.
+
+Projects
+Document Question Answering
+Developed a natural language processing pipeline with retrieval and model evaluation.
+
+Education
+Fictional Example University

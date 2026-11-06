@@ -1,0 +1,8 @@
+SYNTHETIC TRANSCRIPT FOR DEVELOPMENT ONLY
+Institution: Fictional Example University
+Student: S053
+
+Course ID | Title | Grade | Credits | Term | Status
+FIN201 | Financial Analysis | A- | 3 | Spring 2024 | completed
+STAT301 | Time Series Forecasting | A | 3 | Spring 2024 | completed
+ECON101 | Economics | B+ | 3 | Spring 2024 | completed

@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0",
+  "career": [
+    {
+      "id": "software_engineer",
+      "label": "Software Engineer",
+      "text": "software engineering development programming Python web applications distributed systems algorithms databases Linux",
+      "example_course_ids": [
+        "95-881",
+        "95-896",
+        "95-702"
+      ]
+    },
+    {
+      "id": "ai_engineer",
+      "label": "AI Engineer",
+      "text": "artificial intelligence generative AI agents large language models machine learning deployment software",
+      "example_course_ids": [
+        "94-846",
+        "95-820",
+        "95-800"
+      ]
+    },
+    {
+      "id": "machine_learning_engineer",
+      "label": "Machine Learning Engineer",
+      "text": "machine learning deep learning predictive models Python software data science deployment",
+      "example_course_ids": [
+        "95-828",
+        "95-876",
+        "95-829"
+      ]
+    },
+    {
+      "id": "data_scientist",
+      "label": "Data Scientist",
+      "text": "data science statistical analysis exploratory data analytics machine learning experimentation Python",
+      "example_course_ids": [
+        "95-885",
+        "95-868",
+        "95-819"
+      ]
+    },
+    {
+      "id": "data_engineer",
+      "label": "Data Engineer",
+      "text": "data engineering database management SQL NoSQL distributed systems data pipelines cloud",
+      "example_course_ids": [
+        "95-703",
+        "95-736",
+        "95-737"
+      ]
+    },
+    {
+      "id": "product_manager",
+      "label": "Product Manager",
+      "text": "product management product analytics experimentation A/B testing design strategy agile innovation customer",
+      "example_course_ids": [
+        "95-851",
+        "95-819",
+        "95-874"
+      ]
+    },
+    {
+      "id": "cybersecurity_analyst",
+      "label": "Cybersecurity Analyst",
+      "text": "cybersecurity information security network defense threat analysis risk privacy security operations",
+      "example_course_ids": [
+        "95-752",
+        "95-884",
+        "95-889"
+      ]
+    },
+    {
+      "id": "technology_consultant",
+      "label": "Technology Consultant",
+      "text": "management consulting technology strategy digital transformation organizational change project management",
+      "example_course_ids": [
+        "94-808",
+        "95-722",
+        "95-867"
+      ]
+    },
+    {
+      "id": "ai_governance_specialist",
+      "label": "AI Governance Specialist",
+      "text": "responsible artificial intelligence governance ethics fairness accountability privacy risk policy",
+      "example_course_ids": [
+        "94-847",
+        "95-841",
+        "95-802"
+      ]
+    },
+    {
+      "id": "policy_analyst",
+      "label": "Policy Analyst",
+      "text": "public policy analysis evidence econometrics surveys geographic information social programs",
+      "example_course_ids": [
+        "94-834",
+        "94-828",
+        "94-710"
+      ]
+    },
+    {
+      "id": "healthcare_analyst",
+      "label": "Healthcare Analyst",
+      "text": "healthcare health economics digital health analytics information systems policy",
+      "example_course_ids": [
+        "94-705",
+        "94-709",
+        "94-826"
+      ]
+    },
+    {
+      "id": "financial_data_analyst",
+      "label": "Financial Data Analyst",
+      "text": "financial investing accounting finance analytics time series forecasting decision uncertainty",
+      "example_course_ids": [
+        "94-818",
+        "95-719",
+        "95-835"
+      ]
+    }
+  ],
+  "academic": [
+    {
+      "id": "machine_learning",
+      "label": "Machine Learning",
+      "text": "machine learning supervised unsupervised predictive models model evaluation",
+      "example_course_ids": [
+        "95-828",
+        "94-489"
+      ]
+    },
+    {
+      "id": "artificial_intelligence",
+      "label": "Artificial Intelligence",
+      "text": "artificial intelligence AI intelligent systems agents planning",
+      "example_course_ids": [
+        "95-800",
+        "94-846"
+      ]
+    },
+    {
+      "id": "generative_ai_nlp",
+      "label": "Generative AI and NLP",
+      "text": "generative AI natural language processing NLP LLM large language models agents",
+      "example_course_ids": [
+        "95-820",
+        "94-846",
+        "94-728"
+      ]
+    },
+    {
+      "id": "data_science",
+      "label": "Data Science",
+      "text": "data science analytics statistics exploratory data analysis big data",
+      "example_course_ids": [
+        "95-885",
+        "95-868"
+      ]
+    },
+    {
+      "id": "software_systems",
+      "label": "Software Systems",
+      "text": "software engineering programming Python web development distributed systems Linux algorithms",
+      "example_course_ids": [
+        "95-881",
+        "95-896",
+        "95-702"
+      ]
+    },
+    {
+      "id": "databases",
+      "label": "Databases and Data Engineering",
+      "text": "database management relational SQL NoSQL data engineering data pipelines",
+      "example_course_ids": [
+        "95-703",
+        "95-736",
+        "95-737"
+      ]
+    },
+    {
+      "id": "cybersecurity",
+      "label": "Cybersecurity",
+      "text": "cybersecurity network security threat analysis defenses penetration testing information security",
+      "example_course_ids": [
+        "95-752",
+        "95-883",
+        "95-884"
+      ]
+    },
+    {
+      "id": "privacy_governance",
+      "label": "Privacy and AI Governance",
+      "text": "privacy responsible AI ethics governance fairness accountability risk policy",
+      "example_course_ids": [
+        "94-806",
+        "94-847",
+        "95-841"
+      ]
+    },
+    {
+      "id": "product_innovation",
+      "label": "Product and Innovation",
+      "text": "product management innovation entrepreneurship agile design strategy experimentation A/B testing",
+      "example_course_ids": [
+        "95-851",
+        "94-855",
+        "95-819"
+      ]
+    },
+    {
+      "id": "technology_management",
+      "label": "Technology Management",
+      "text": "technology strategy management digital transformation consulting organizational change",
+      "example_course_ids": [
+        "95-722",
+        "94-808",
+        "95-867"
+      ]
+    },
+    {
+      "id": "policy_analytics",
+      "label": "Policy Analytics",
+      "text": "public policy econometrics causal analysis surveys evidence geographic information GIS",
+      "example_course_ids": [
+        "94-710",
+        "94-834",
+        "94-802"
+      ]
+    },
+    {
+      "id": "healthcare_analytics",
+      "label": "Healthcare Analytics",
+      "text": "healthcare health economics digital health analytics information systems",
+      "example_course_ids": [
+        "94-705",
+        "94-709",
+        "94-826"
+      ]
+    },
+    {
+      "id": "financial_analytics",
+      "label": "Financial Analytics",
+      "text": "finance financial investing accounting time series forecasting uncertainty",
+      "example_course_ids": [
+        "94-818",
+        "95-719",
+        "95-835"
+      ]
+    },
+    {
+      "id": "visualization",
+      "label": "Data Visualization",
+      "text": "data visualization Tableau storytelling communicating data business intelligence",
+      "example_course_ids": [
+        "94-819",
+        "94-870",
+        "95-877"
+      ]
+    }
+  ]
+}

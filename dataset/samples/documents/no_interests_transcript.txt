@@ -1,0 +1,8 @@
+SYNTHETIC TRANSCRIPT FOR DEVELOPMENT ONLY
+Institution: Fictional Example University
+Student: S003
+
+Course ID | Title | Grade | Credits | Term | Status
+CS101 | Python Programming | A | 3 | Spring 2024 | completed
+DB101 | Database Systems | A- | 3 | Spring 2024 | completed
+CS201 | Software Engineering | B+ | 3 | Spring 2024 | completed

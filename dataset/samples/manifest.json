@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "synthetic": true,
+  "scenarios": [
+    {
+      "scenario": "ai_engineer",
+      "synthetic": true,
+      "profile": "samples/profiles/ai_engineer.json",
+      "resume": "samples/documents/ai_engineer_resume.txt",
+      "transcript": "samples/documents/ai_engineer_transcript.txt"
+    },
+    {
+      "scenario": "product_manager",
+      "synthetic": true,
+      "profile": "samples/profiles/product_manager.json",
+      "resume": "samples/documents/product_manager_resume.txt",
+      "transcript": "samples/documents/product_manager_transcript.txt"
+    },
+    {
+      "scenario": "cybersecurity",
+      "synthetic": true,
+      "profile": "samples/profiles/cybersecurity.json",
+      "resume": "samples/documents/cybersecurity_resume.txt",
+      "transcript": "samples/documents/cybersecurity_transcript.txt"
+    },
+    {
+      "scenario": "policy_analytics",
+      "synthetic": true,
+      "profile": "samples/profiles/policy_analytics.json",
+      "resume": "samples/documents/policy_analytics_resume.txt",
+      "transcript": "samples/documents/policy_analytics_transcript.txt"
+    },
+    {
+      "scenario": "financial_analytics",
+      "synthetic": true,
+      "profile": "samples/profiles/financial_analytics.json",
+      "resume": "samples/documents/financial_analytics_resume.txt",
+      "transcript": "samples/documents/financial_analytics_transcript.txt"
+    },
+    {
+      "scenario": "no_interests",
+      "synthetic": true,
+      "profile": "samples/profiles/no_interests.json",
+      "resume": "samples/documents/no_interests_resume.txt",
+      "transcript": "samples/documents/no_interests_transcript.txt"
+    }
+  ]
+}

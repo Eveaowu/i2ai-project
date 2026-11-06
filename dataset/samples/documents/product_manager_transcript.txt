@@ -1,0 +1,8 @@
+SYNTHETIC TRANSCRIPT FOR DEVELOPMENT ONLY
+Institution: Fictional Example University
+Student: S002
+
+Course ID | Title | Grade | Credits | Term | Status
+BUS201 | Product Strategy | A- | 3 | Spring 2024 | completed
+STAT210 | Experimental Design | A | 3 | Spring 2024 | completed
+DS101 | Data Visualization | B+ | 3 | Spring 2024 | completed

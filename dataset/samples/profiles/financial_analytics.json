@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "student_id": "S053",
+  "program_id": "AIM16",
+  "interests": {
+    "career": [
+      {
+        "id": "financial_data_analyst",
+        "weight": 1.0
+      }
+    ],
+    "academic": [
+      {
+        "id": "financial_analytics",
+        "weight": 0.7
+      },
+      {
+        "id": "data_science",
+        "weight": 0.3
+      }
+    ]
+  },
+  "experience": {
+    "skills": [],
+    "work_experience": [],
+    "projects": [],
+    "academic_records": []
+  }
+}

@@ -1,0 +1,16 @@
+SYNTHETIC RESUME FOR DEVELOPMENT ONLY
+Student: S003
+
+Skills
+Python, SQL, web development, data engineering
+
+Work Experience
+Software Development Intern | Fictional Software Group | 2024-2025
+Built web application endpoints and SQL queries for an internal data tool.
+
+Projects
+Data Application
+Developed a Python web application and database pipeline with repeatable data validation.
+
+Education
+Fictional Example University

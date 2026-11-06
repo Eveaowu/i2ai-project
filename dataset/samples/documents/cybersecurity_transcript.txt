@@ -1,0 +1,8 @@
+SYNTHETIC TRANSCRIPT FOR DEVELOPMENT ONLY
+Institution: Fictional Example University
+Student: S051
+
+Course ID | Title | Grade | Credits | Term | Status
+SEC101 | Information Security | A | 3 | Spring 2024 | completed
+NET201 | Computer Networks | A- | 3 | Spring 2024 | completed
+CS102 | Python Programming | B+ | 3 | Spring 2024 | completed
